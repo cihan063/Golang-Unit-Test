@@ -1,20 +1,20 @@
 # Golang-Unit-Test
 
-Instructions
+Instructions<br/><br/>
 
-1- Open to terminal 
-2- go version
-3- go help 
-4- 	cd HTMLFolder
-	go run web.go
-	(Now out localhost:3000 port started to listening)
-	(Open a browser and enter this site:)
-	localhost:3000/example.html
-5- Open a new terminal and make sure that you are in the root
-	(I mean first folder when you open to folder. That path should 
-	include main.go and main_test.go)
-6- go run main.go
-7- go test
+1- Open to terminal <br/>
+2- go version<br/><br/>
+3- go help <br/>
+4- 	cd HTMLFolder<br/><br/><br/><br/><br/>
+	go run web.go<br/><br/><br/><br/>
+	(Now out localhost:3000 port started to listening)<br/><br/><br/>
+	(Open a browser and enter this site:)<br/><br/>
+	localhost:3000/example.html<br/>
+5- Open a new terminal and make sure that you are in the root<br/><br/><br/><br/><br/><br/>
+	(I mean first folder when you open to folder. That path should <br/><br/><br/><br/><br/>
+	include main.go and main_test.go)<br/><br/><br/><br/>
+6- go run main.go<br/><br/><br/>
+7- go test<br/><br/>
 
 --------------------------------------------------------------
 
