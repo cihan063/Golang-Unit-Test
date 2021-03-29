@@ -1,3 +1,4 @@
+```
 # Golang-Unit-Test
 
 Instructions<br/><br/>
@@ -5,16 +6,16 @@ Instructions<br/><br/>
 1- Open to terminal <br/>
 2- go version<br/><br/>
 3- go help <br/>
-4- 	cd HTMLFolder<br/><br/><br/><br/><br/>
-	go run web.go<br/><br/><br/><br/>
-	(Now out localhost:3000 port started to listening)<br/><br/><br/>
-	(Open a browser and enter this site:)<br/><br/>
+4- 	cd HTMLFolder<br/><br/>
+	go run web.go<br/><br/>
+	(Now out localhost:3000 port started to listening)<br/>
+	(Open a browser and enter this site:)<br/>
 	localhost:3000/example.html<br/>
-5- Open a new terminal and make sure that you are in the root<br/><br/><br/><br/><br/><br/>
-	(I mean first folder when you open to folder. That path should <br/><br/><br/><br/><br/>
-	include main.go and main_test.go)<br/><br/><br/><br/>
-6- go run main.go<br/><br/><br/>
-7- go test<br/><br/>
+5- Open a new terminal and make sure that you are in the root<br/>
+	(I mean first folder when you open to folder. That path should <br/>
+	include main.go and main_test.go)<br/>
+6- go run main.go<br/>
+7- go test<br/>
 
 --------------------------------------------------------------
 
@@ -45,6 +46,5 @@ main_test.go --->	TestCompare(): testing that url is openning correctly. And com
 			TestAdd(): testing that result of add is true
 		
 
-		
-		
+```
 			
