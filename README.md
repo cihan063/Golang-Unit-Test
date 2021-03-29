@@ -1,21 +1,21 @@
 ```
 # Golang-Unit-Test
 
-Instructions<br/><br/>
+Instructions
 
-1- Open to terminal <br/>
-2- go version<br/><br/>
-3- go help <br/>
-4- 	cd HTMLFolder<br/><br/>
-	go run web.go<br/><br/>
-	(Now out localhost:3000 port started to listening)<br/>
-	(Open a browser and enter this site:)<br/>
-	localhost:3000/example.html<br/>
-5- Open a new terminal and make sure that you are in the root<br/>
-	(I mean first folder when you open to folder. That path should <br/>
-	include main.go and main_test.go)<br/>
-6- go run main.go<br/>
-7- go test<br/>
+1- Open to terminal 
+2- go version
+3- go help 
+4- 	cd HTMLFolder
+	go run web.go
+	(Now out localhost:3000 port started to listening)
+	(Open a browser and enter this site:)
+	localhost:3000/example.html
+5- Open a new terminal and make sure that you are in the root
+	(I mean first folder when you open to folder. That path should 
+	include main.go and main_test.go)
+6- go run main.go
+7- go test
 
 --------------------------------------------------------------
 
@@ -44,7 +44,5 @@ main_test.go --->	TestCompare(): testing that url is openning correctly. And com
 			that codes are same between body.txt and example.html
 			TestSubtract(): testing that result of subtract is true 	
 			TestAdd(): testing that result of add is true
-		
-
 ```
 			
